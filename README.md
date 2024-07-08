@@ -18,6 +18,7 @@ Install dependencies:
 bash
 Copy code
 pip install -r requirements.txt
+
 Set up environment variables:
 
 Create a .env file in the root directory.
